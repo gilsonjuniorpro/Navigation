@@ -8,7 +8,7 @@ parameters from one fragment to another using navigation view
 ### 📷 How is this App
 <img src="navigation_2020-04-22004111.png" width="25%"></img>
 <img src="navigation_2020-04-22004156.png" width="25%"></img>
-<img src="navigation_2020-04-22004327.png" width="25%"></img>
+<img src="navigation_2020-04-22004327.png" width="100%"></img>
 
 
 ### 💻Technology
